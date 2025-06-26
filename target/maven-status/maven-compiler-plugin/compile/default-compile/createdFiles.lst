@@ -1,1 +1,10 @@
-com\mycompany\aplikasi_manajemen_kontak\Aplikasi_Manajemen_Kontak.class
+com\mycompany\db\MongoUtil.class
+com\mycompany\model\Task.class
+com\mycompany\dao\TaskDAO.class
+com\mycompany\service\I18nService.class
+com\mycompany\service\CryptoService.class
+com\mycompany\app.class
+com\mycompany\ui\MainFrame$1.class
+com\mycompany\service\ReminderService.class
+com\mycompany\ui\MainFrame.class
+com\mycompany\dao\GenericDAO.class
